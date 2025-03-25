@@ -9,9 +9,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![IAM](https://img.shields.io/badge/Identity-Management-orange?style=for-the-badge)
 ![CNCF](https://img.shields.io/badge/CNCF-Cloud%20Native%20Computing%20Foundation-informational?style=for-the-badge&logo=cncf&logoColor=white)
-
-## 📊 GitHub Stats
-![Alex's GitHub Stats](https://streak-stats.demolab.com?user=alex-rosta&theme=dark&hide_border=true)
 ![Top Languages](https://api.githubtrends.io/user/svg/alex-rosta/langs?time_range=one_year&compact=True&theme=dark)
 
 ```yaml
